@@ -1,13 +1,13 @@
 
-window.matchMedia("( orientation: portrait )").addEventListener("change",e=>{
-  const portrait=e.matches;
-  if(portrait){
-    alert("You are in portrait, Please open this in landscape");
-  }else{
-    alert("You are in landscape");
-  }
+// window.matchMedia("( orientation: portrait )").addEventListener("change",e=>{
+//   const portrait=e.matches;
+//   if(portrait){
+//     alert("You are in portrait, Please open this in landscape");
+//   }else{
+//     alert("You are in landscape");
+//   }
 
-});
+// });
 
 
 
